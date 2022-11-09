@@ -1,0 +1,32 @@
+.mySlides{
+   width: 1000px;
+   height: 100vh;
+   display: flex;
+   margin: auto;
+
+
+   
+}
+body{
+    background-color: black;
+}
+.btn1{
+ position:absolute;
+
+ bottom:200px;
+ width:20px;
+ height:6vh;
+   
+    
+}
+
+.btn2{
+    position:absolute;
+
+ bottom:200px;
+ left:98%;
+ width:20px;
+ height:6vh;
+   
+
+}

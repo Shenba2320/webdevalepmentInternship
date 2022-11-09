@@ -1,0 +1,47 @@
+.btn{
+    padding: 10px 170px;
+    margin-left: 10px;
+    border-radius: 8px;
+    
+   
+}
+fieldset{
+    width: 350px;
+}
+input{
+    width: 250px;
+    margin-left: 60px;
+    padding: 5px;
+    background-color: rgb(221, 172, 180);
+    border-radius: 8px;
+    
+}
+.container form{
+    margin-left: 33%;
+    margin-top: 70px;
+    background-color: white;
+    width: 400px;
+    height: 80vh;
+
+   outline: auto;
+    outline-style: dotted;
+    padding: 30px;
+
+}
+.credential{
+    margin-top: 50px;
+}
+body{
+    background-color: lightgray;
+   
+    
+}
+i{
+
+    position: absolute;
+    left: 520px;
+
+   
+
+
+}
